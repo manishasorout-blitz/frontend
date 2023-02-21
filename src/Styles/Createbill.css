@@ -1,0 +1,21 @@
+.form{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    width: 60%;
+    margin-top: 20%;
+   
+    margin: auto;
+    padding: 10px;
+}
+.form input{
+    margin-top: 20px;
+}
+.form button{
+    background-color: rgb(120, 210, 210);
+    color: black;
+    border-radius: none;
+   margin-top: 10px;
+   font-size: 23px;
+ 
+    border: none;
+}
